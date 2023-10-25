@@ -1,1 +1,2 @@
-# NcumisaP-READ.me
+Hi, my name is Ncumisa
+Iam a data analyst in training
